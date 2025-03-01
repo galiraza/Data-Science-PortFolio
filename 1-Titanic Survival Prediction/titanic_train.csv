@@ -231,9 +231,9 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,0,111426,26.55,,C
 615,0,3,"Brocklebank, Mr. William Alfred",male,35,0,0,364512,8.05,,S
 702,1,1,"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC 17475,26.2875,E24,S
-738,1,1,"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,512.3292,B101,C
+738,1,1,"Lesurer, Mr. Gustave J",male,,0,0,PC 17755,512.3292,B101,C
 813,0,2,"Slemen, Mr. Richard James",male,35,0,0,28206,10.5,,S
-848,0,3,"Markoff, Mr. Marin",male,35,0,0,349213,7.8958,,C
+848,0,3,"Markoff, Mr. Marin",male,,0,0,349213,7.8958,,C
 844,0,3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,,C
 22,1,2,"Beesley, Mr. Lawrence",male,34,0,0,248698,13,D56,S
 99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,23,,S
